@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+h2{
+    font-family: 'Arial';
+}
+
+p{
+    text-align: justify;
+}
+
+.flexmodel{
+    display: flex;
+}
+
+.mod{
+    padding: 10px;
+}
+
+.navbar{
+    display: flex;
+}
+
+.subnavbar{
+    padding: 10px;
+}
